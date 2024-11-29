@@ -1,0 +1,15 @@
+.container {
+  display: grid;
+  grid-template-columns: 180px 180px 180px 180px;
+  grid-template-rows: 250px 250px 250px;
+}
+
+.element {
+  color: rgb(240, 143, 143);
+  border: 3px black solid;
+  border-collapse: collapse;
+}
+
+img {
+  width: 150px;
+}
